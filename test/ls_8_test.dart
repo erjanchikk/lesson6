@@ -1,0 +1,8 @@
+import 'package:ls_8/ls_8.dart';
+import 'package:test/test.dart';
+
+void main() {
+  test('calculate', () {
+    expect(calculate(), 42);
+  });
+}
